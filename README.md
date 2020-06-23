@@ -26,5 +26,4 @@ Sensor de umidade do solo FC-28 = 1x ;
 pushbutton = 1x ; 
 
 
-###### obs:
-**As duas imagens do projeto em protoboards tem os mesmos componentes, mas um foi feito utilizando uma protoboard de 400 pinos e o outro utilizando uma de 800 pinos;**
+**Obs: As duas imagens do projeto em protoboards tem os mesmos componentes, mas um foi feito utilizando uma protoboard de 400 pinos e o outro utilizando uma de 800 pinos;**
